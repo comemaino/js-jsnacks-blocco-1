@@ -10,7 +10,7 @@ while (userNumber > 0) {
 
   userNumber = parseInt(userNumber / 10);
 }
-console.log(userNumber);
+
 console.log(digits);
 
 let sum = 0;
